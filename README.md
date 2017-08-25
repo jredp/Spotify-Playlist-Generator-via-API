@@ -1,8 +1,4 @@
-# soundCloud
-
-
-
-
+# Spotify
 
 <!-- Search for an Item API
 	-get artist id -->
